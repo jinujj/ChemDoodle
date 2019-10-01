@@ -1,6 +1,3 @@
-// import "./install/ChemDoodleWeb.css";
-// import "./install/ChemDoodleWeb";
-
 let init = function() {
   // setup component
   var transformBallAndStick = new ChemDoodle.TransformCanvas3D(

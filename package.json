@@ -10,7 +10,7 @@
     "start": "npm run dev && webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
     "clean:build": "rimraf demo; rimraf dist",
-    "clean": "npm run clean:build; rimraf node_modules",
+    "clean": "npm run clean:build; rimraf package-lock.json; rimraf node_modules",
     "test": "echo 'test'"
   },
   "author": "",

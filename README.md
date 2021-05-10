@@ -1,6 +1,6 @@
 # ChemDoodle plugin
 
-ChemDoodle plugin for smart sparrow.
+ChemDoodle plugin 
 
 # How to run ?
 
